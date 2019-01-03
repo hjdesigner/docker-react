@@ -14,3 +14,4 @@ I used this tutorial to set up this example of running react with docker
   -p 3000:3000 \
   --rm \
   sample-app`;
+* Run composer: `docker-compose up sample-app`
