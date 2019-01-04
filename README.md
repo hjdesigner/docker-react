@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I used this tutorial to set up this example of running react with docker
 
-(https://mherman.org/blog/dockerizing-a-react-app/)[https://mherman.org/blog/dockerizing-a-react-app/]
+[https://mherman.org/blog/dockerizing-a-react-app/](https://mherman.org/blog/dockerizing-a-react-app/)
 
 ### Comands
 
